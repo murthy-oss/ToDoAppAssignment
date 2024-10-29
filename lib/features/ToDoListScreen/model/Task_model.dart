@@ -4,7 +4,3 @@ class Task{
 
   Task( {required this.title,required this.isCompleted});
 }
-class ToDoListScreenInitial {
-  final List<Task> tasks;
-  ToDoListScreenInitial(this.tasks);
-}
